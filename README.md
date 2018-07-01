@@ -19,7 +19,7 @@ Will clarify how topics and subtopics are categorized, as well as defining folde
 
 ## Topics
 
-|Topic|# Articles|
-|------|----------|
+|Topic|Name|# Articles|
+|------|------|----------|
 
- | [Daring Fireball](https://daringfireball.net/projects/markdown/) | 1 articles |
+| Markdown | [Daring Fireball](https://daringfireball.net/projects/markdown/) | 1 articles |
